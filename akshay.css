@@ -1,0 +1,18 @@
+h1{
+    /* font-size: small; */
+    text-align: center;
+    margin: 0;
+    background-color: aquamarine;
+}
+p{
+    color: red;
+}
+#p1{
+    background-color: orange;
+}
+.cl1{
+    background-color: yellow;
+}
+p,article{
+    width: 500px;
+}
